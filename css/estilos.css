@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.contenedor{
+    padding: 60px 0;
+    width: 90%;
+    margin: auto;
+}
+.heroImg{
+    width: 200vh;
+    height: 200%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.portada{
+    background: #02020257;
+}
+.botonComprar{
+    display: inline;
+    padding: 10px;
+    cursor: pointer;
+    background: #c74900;
+    color: #fff;
+    border: none;
+    border-radius: 5px; 
+}
+.btnQuitar{
+    display: inline;
+    padding: 10px;
+    cursor: pointer;
+    background: #c74900;
+    color: #fff;
+    border: none;
+    border-radius: 5px; 
+}
+.btnConfirmar{
+    display: inline;
+    padding: 10px;
+    cursor: pointer;
+    background: #c74900;
+    color: #fff;
+    border: none;
+    border-radius: 5px; 
+}
+.nav{
+    padding: 10px 0;
+}
